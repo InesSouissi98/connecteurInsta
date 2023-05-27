@@ -2,7 +2,7 @@
 
 
 Avant l’éxecuter: 
-installer mongodb \\
+installer mongodb <br>
 install instaloader \\
 installer pymongo \\
 
