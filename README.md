@@ -1,11 +1,11 @@
-# connecteur Instagram
+# Web sraper: Instagram API
 
 
-Avant l’éxecuter: 
-installer mongodb <br>
+Before execusion: 
+install mongodb <br>
 install instaloader <br>
-installer pymongo <br>
+install pymongo <br>
 
-pour  l’éxecuter:
-sudo systemctl start  mongod #activer serveur mongodb <br>
+for execusion:
+sudo systemctl start  mongod #activate mongodb server<br>
 python3 InesSouissiCode.py 
